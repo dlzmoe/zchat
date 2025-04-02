@@ -1,0 +1,11 @@
+<svg width="120" height="40" viewBox="0 0 120 40" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text { font-family: Arial, sans-serif; font-weight: bold; }
+    .z { fill: #2B5AF8; }
+    .chat { fill: #333; }
+  </style>
+  <text x="10" y="30" class="text z">Z</text>
+  <text x="35" y="30" class="text chat">CHAT</text>
+  <path d="M25 15 L35 15" stroke="#2B5AF8" stroke-width="2"/>
+  <path d="M25 25 L35 25" stroke="#333" stroke-width="2"/>
+</svg>
